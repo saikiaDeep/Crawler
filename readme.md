@@ -1,4 +1,4 @@
-Crawler for vacancy portal because those lazy asses dont give me access to application pdfs, eat shit bitches.
+Crawler
 
 main.py is single threaded
 
